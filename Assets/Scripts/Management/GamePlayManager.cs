@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class GamePlayManager : Singleton<GamePlayManager>
 {
-    //점수
+    //점수 
     public int score;
 }
